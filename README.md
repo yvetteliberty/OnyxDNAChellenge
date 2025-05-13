@@ -33,6 +33,7 @@ Regional Pricing: Investigated price differences by country and city
 ![](https://github.com/yvetteliberty/OnyxDNAChellenge/blob/main/page1.jpg)
 ![](https://github.com/yvetteliberty/OnyxDNAChellenge/blob/main/page3.jpg)
 ![](https://github.com/yvetteliberty/OnyxDNAChellenge/blob/main/page2.jpg)
+
 ## Key Insights
 
 - Customers aged 18–24 prefer budget Android models (e.g., Tecno, Xiaomi), while 35–44 lean toward Apple and Samsung
