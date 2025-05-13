@@ -30,8 +30,8 @@ Regional Pricing: Investigated price differences by country and city
 - Generating Insights and Business Interpretations.
 
 ## Visualization
+![](https://github.com/yvetteliberty/OnyxDNAChellenge/blob/main/page1.jpg)
 
-![My Image](https://raw.githubusercontent.com/yvetteliberty/OnyxDNAChellenge/blob/main/page1.jpg)
 
 ## Key Insights
 
