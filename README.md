@@ -1,4 +1,6 @@
 #  OnyxDNAChellenge
+![](https://github.com/yvetteliberty/OnyxDNAChellenge/blob/main/mobile%20phone.jpeg)
+
 Mobile Phone Sales Dashboard – Power BI Project
 
 This project is part of the Onyx Data – DataDNA Challenge (May 2025), where I analyzed a dataset on mobile phone sales to uncover trends in customer behavior, product performance, and regional insights using Power BI.
